@@ -3,7 +3,7 @@ A simple web application developed using PHP and MySQL to manage user records. T
 
 ## 🌐 Live Website
 
-🔗 https://sadeemproject.freepage.cc
+🔗 https://sadeemproject.freehosting.dev/
 
 ---
 
