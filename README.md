@@ -115,7 +115,8 @@ The table is updated immediately after the change.
 
 ---
 
-<img width="747" height="510" alt="Screenshot 2026-07-20 050402" src="https://github.com/user-attachments/assets/2b3b3e29-33e2-4282-ba32-4c2a639de025" />
+<img width="747" height="482" alt="Screenshot 2026-07-20 073012" src="https://github.com/user-attachments/assets/8afe4e13-aefc-4f3d-a0d0-b57de8a3d81f" />
+
 
 ---
 
